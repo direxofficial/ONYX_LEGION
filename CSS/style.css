@@ -1,0 +1,59 @@
+body{
+    float: left;
+}
+*{
+    box-sizing: border-box;
+}
+.header{ 
+    height: 89px;
+    border: 3px solid black;
+    display: block;
+    float: left;
+}
+.nav{
+    height: 90px;
+    border: 3px solid black;
+    width: 99.6%;
+    display: block;
+    float: left;
+}
+.section{
+    height: 640px;
+    width: 360px;
+    border: 3px solid black;
+    float: left;
+}
+.main{
+    height: 640px;
+    width: 1165px;
+    border: 3px solid black;
+    float: left;
+}
+.esection{
+    height: 640px;
+    width: 342px;
+    border: 3px solid black;
+    float: left;
+}
+.footer{
+    height: 178px;
+    width: 1879px;
+    border: 3px solid black;
+    display: block;
+    float: left;
+}
+.center{
+    text-align: center;
+}
+.full-w{
+    width: 99.6%;
+} 
+.mailto{
+    text-decoration: none;
+    color: brown;
+    cursor: pointer;
+
+}
+.soc_li{
+   margin: 5px;
+}
